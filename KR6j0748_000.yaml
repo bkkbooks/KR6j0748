@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0748/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金胎兩界師資相承
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X59/X59n1073.xml
+    old_id: X59n1073
+hash: sha256:5022d2fb48d362a064d7843efbe8a794693bbdb8bc141baef3baca24c4e6b659

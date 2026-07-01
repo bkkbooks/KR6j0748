@@ -1,0 +1,59 @@
+canonical_identifier: bkk:krp/KR6j0748/v1
+canonical_location: https://kanripo.org/bkk/KR6j0748/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金胎兩界師資相承
+  identifiers:
+    alt_id:
+    - X59n1073
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X59/X59n1073.xml
+    old_id: X59n1073
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0748_000.yaml, hash: 'sha256:5022d2fb48d362a064d7843efbe8a794693bbdb8bc141baef3baca24c4e6b659'}
+  - {seq: 1, filename: KR6j0748_001.yaml, hash: 'sha256:585aad18a62a54334a205e0edc1d6e896841b1ac230854aca0bc7518aea45b5e'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0748_001.markers.yaml, hash: 'sha256:8bb0fa39a41515a22eb3bb595a7d7d4246897bc06c42b4ca86dce5500082ca2a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0748_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 469
+  label: 金胎兩界師相承
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0748_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 金剛界
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0748_X_001-mulu-2
+    span:
+    - body
+    - 264
+    - 264
+  label: 胎藏界
+  type: mulu
+  level: 1
+hash: sha256:9272c0c97935818f0406f9df83e5da3b1e4ec439834e94f24ada2aefdb0e90fe
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: X
