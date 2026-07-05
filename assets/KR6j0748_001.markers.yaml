@@ -303,7 +303,6 @@ markers:
   - {type: line-break, offset: 212, content: '', id: KR6j0748_X_001-0213a17, ed: X, 'n': 0213a17}
   - {type: line-break, offset: 212, content: '', id: KR6j0748_X_001-0991a18_dup26, ed: R095, 'n': 0991a18}
   - {type: xml-element, offset: 212, content: '', id: itemX59p0213a1701, name: item, role: open, attrs: {'xml:id': itemX59p0213a1701}}
-  - {type: substitution, offset: 213, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4452}}
   - {type: xml-element, offset: 214, content: '', id: KR6j0748_X_001-bkkxmlele96, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 215, content: '', id: KR6j0748_X_001-bkkxmlele97, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 215, content: '', id: itemX59p0213a1701_end, name: item, role: close, attrs: {'xml:id': itemX59p0213a1701}}
@@ -521,7 +520,6 @@ markers:
   - {type: line-break, offset: 370, content: '', id: KR6j0748_X_001-0993a05_dup2, ed: R095, 'n': 0993a05}
   - {type: xml-element, offset: 370, content: '', id: KR6j0748_X_001-bkkxmlele166, name: list, role: open, attrs: {rend: no-marker}}
   - {type: xml-element, offset: 370, content: '', id: itemX59p0214a1101, name: item, role: open, attrs: {'xml:id': itemX59p0214a1101}}
-  - {type: substitution, offset: 371, original: 昇, replacement: 升, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0043}}
   - {type: xml-element, offset: 372, content: '', id: KR6j0748_X_001-bkkxmlele167, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 375, content: '', id: KR6j0748_X_001-bkkxmlele168, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 375, content: '', id: itemX59p0214a1101_end, name: item, role: close, attrs: {'xml:id': itemX59p0214a1101}}
@@ -588,7 +586,6 @@ markers:
   - {type: line-break, offset: 419, content: '', id: KR6j0748_X_001-0214a22, ed: X, 'n': 0214a22}
   - {type: line-break, offset: 419, content: '', id: KR6j0748_X_001-0993a05_dup13, ed: R095, 'n': 0993a05}
   - {type: xml-element, offset: 419, content: '', id: itemX59p0214a2201, name: item, role: open, attrs: {'xml:id': itemX59p0214a2201}}
-  - {type: substitution, offset: 420, original: 叡, replacement: 睿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2361}}
   - {type: xml-element, offset: 421, content: '', id: KR6j0748_X_001-bkkxmlele190, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 422, content: '', id: KR6j0748_X_001-bkkxmlele191, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 422, content: '', id: itemX59p0214a2201_end, name: item, role: close, attrs: {'xml:id': itemX59p0214a2201}}
@@ -639,9 +636,8 @@ markers:
   - {type: punctuation, offset: 442, content: ：, id: KR6j0748_X_001-bkkpn8}
   - {type: line-break, offset: 459, content: '', id: KR6j0748_X_001-0214a28, ed: X, 'n': 0214a28}
   - {type: line-break, offset: 459, content: '', id: KR6j0748_X_001-0993a08, ed: R095, 'n': 0993a08}
-  - {type: substitution, offset: 465, original: 蒭, replacement: 芻, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3321}}
   - {type: indent, offset: 466, content: 　, id: KR6j0748_X_001-bkkind3}
   - {type: indent, offset: 468, content: 　, id: KR6j0748_X_001-bkkind4}
   - {type: xml-element, offset: 469, content: '', id: pX59p0214a2701_end, name: p, role: close, attrs: {'xml:id': pX59p0214a2701, style: 'margin-left:4em;text-indent:-4em'}}
   back: []
-hash: sha256:8bb0fa39a41515a22eb3bb595a7d7d4246897bc06c42b4ca86dce5500082ca2a
+hash: sha256:6766a8694e664029bd81514dae087bfc21c0e9b12dcc43a28b3992f4d0c05c13
