@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0748/v1
 canonical_location: https://kanripo.org/bkk/KR6j0748/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金胎兩界師資相承
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0748_000.yaml, hash: 'sha256:5022d2fb48d362a064d7843efbe8a794693bbdb8bc141baef3baca24c4e6b659'}
-  - {seq: 1, filename: KR6j0748_001.yaml, hash: 'sha256:b4b2b9f92a1e650801b9ae19650e7d823e06e8373a2861cd45f51a89093d1365'}
+  - {seq: 1, filename: KR6j0748_001.yaml, hash: 'sha256:585aad18a62a54334a205e0edc1d6e896841b1ac230854aca0bc7518aea45b5e'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0748_000.markers.yaml, hash: 'sha256:a8954e2aad8f14b65e8e197548f3598bdc176b3256d0480931365a4aee544230'}
-  - {seq: 1, role: markers, filename: assets/KR6j0748_001.markers.yaml, hash: 'sha256:6766a8694e664029bd81514dae087bfc21c0e9b12dcc43a28b3992f4d0c05c13'}
+  - {seq: 1, role: markers, filename: assets/KR6j0748_001.markers.yaml, hash: 'sha256:c872c8e6cb289b6eec39d1b29fca522cd4194dd7c543ff58fc80325a3d35664b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -52,6 +52,9 @@ table_of_contents:
   label: 胎藏界
   type: mulu
   level: 1
-hash: sha256:b030b11faebd23ac7e6550c17a472d3ce1e440870d32a76d04f1ac5866c51a65
+hash: sha256:e7d6d33f9251e28c22c9f96a9ad0fd67492bd6707dbe0fb7dfecccd42664daf4
 editions:
 - short: X
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
